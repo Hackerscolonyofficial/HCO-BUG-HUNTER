@@ -84,7 +84,6 @@ git --version
 
 ```bash
 git clone https://github.com/Hackerscolonyofficial/HCO-BUG-HUNTER.git
-```
 
 ---
 
